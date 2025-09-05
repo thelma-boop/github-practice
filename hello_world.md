@@ -1,1 +1,1 @@
-# Hello China! You're the worst! China is no-no!
+# Hello Taiwan! You're the BEST! China SUCKS!
