@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 
-folder = "C:\\Users\\User\\Desktop\\HanPu\\LearningPython\\GIT-Practice\\"
+folder = "D:\\GIT-Practice\\"
 
 path = folder + "hello_world.md"
 
