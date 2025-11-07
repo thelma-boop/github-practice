@@ -3,8 +3,6 @@
 Created on Fri Sep 12 14:42:52 2025
 
 @author: User
-
-Practice github pull：11/06/2025
 """
         
         
